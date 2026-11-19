@@ -1,0 +1,18 @@
+# 构建产物
+build/
+**/build/
+.gradle/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# 本机配置
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
